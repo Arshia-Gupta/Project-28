@@ -13,7 +13,7 @@ var numberOfArrows = 10;
 var score = 0;
 
 function preload() {
-  backgroundImg = loadImage("./assets/background.png");
+  backgroundImg = loadImage("../assets/background.png");
 }
 
 function setup() {
